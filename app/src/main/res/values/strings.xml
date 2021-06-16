@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Summary</string>
+    <string name="text_summarizer">Text Summarizer</string>
+</resources>
